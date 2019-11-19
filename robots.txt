@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://stupid-pao.github.io/sitemap.xml
